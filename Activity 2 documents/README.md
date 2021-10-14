@@ -6,4 +6,4 @@
 * ## Project roles and responsibilities
 * ## Project scope 
 * ## RACI chart
-* ## Stakeholder management plan
+* ## Stakeholder engagement plan
