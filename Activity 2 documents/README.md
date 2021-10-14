@@ -4,7 +4,6 @@
 * ## Project charter
 * ## Stakeholder register
 * ## Project roles and responsibilities
-* ## Project scope
-* ## Envisioned and rationalized MVPs 
+* ## Project scope 
 * ## RACI chart
 * ## Stakeholder management plan
