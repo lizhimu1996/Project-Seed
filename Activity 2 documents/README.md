@@ -6,3 +6,6 @@
 * ## Project roles and responsibilities
 * ## Project scope
 * ## Envisioned and rationalized MVPs 
+* ## RACI chart
+* ## Stakeholder analysis
+* ## Stakeholder management plan
