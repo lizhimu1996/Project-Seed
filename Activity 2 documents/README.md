@@ -1,4 +1,4 @@
-# Team LaGorge Activity2 Documents
+# Team LaForge Activity2 Documents
 
 * ## Business case
 * ## Project charter
