@@ -7,3 +7,4 @@
 * ## Project scope 
 * ## RACI chart
 * ## Stakeholder engagement plan
+* [Team Vlog2](https://youtu.be/zu1GPuXiSe8)
