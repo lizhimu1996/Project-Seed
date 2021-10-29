@@ -1,4 +1,4 @@
-# Team LaForge Activity3 Documents
+# Team LaForge Activity3 Documents and Tasks
 
 * ## Lo-fi user interface sketches
 * ## MVC diagram
