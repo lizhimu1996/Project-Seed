@@ -6,4 +6,4 @@
 * ## RACI visuals
 * ## UML-ish class
 * ## User stories
-* ## Vlog3 
+* ## [Vlog3](https://youtu.be/EJoq1YnaBvk)
