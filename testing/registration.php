@@ -19,11 +19,11 @@ if (isset($_REQUEST['username'])){
         $email = stripslashes($_REQUEST['email']);
         $email = mysqli_real_escape_string($con,$email);
 
-$smtpserver = "li.ursse.org";
+$smtpserver = "";
 $smtpserverport = 25;
-$smtpusermail = "lizhimu0627@li.ursse.org";
-$smtpuser = "lizhimu0627@li.ursse.org";
-$smtppass = "lizhimu0627";
+$smtpusermail = "";
+$smtpuser = "";
+$smtppass = "";
 $smtp = new smtp($smtpserver, $smtpserverport, true, $smtpuser, $smtppass);
 $emailtype = "HTML";
 $smtpemailto = $email;
