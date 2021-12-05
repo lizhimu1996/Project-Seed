@@ -1,0 +1,14 @@
+test server address and password
+62.151.176.186
+root
+%8vM08owDB
+
+mysql -u root -p
+MariaDB passwor
+ense374
+
+phpMyAdmin username and password
+root
+ense374
+
+62.151.176.186/phpMyAdmin2/index.php
